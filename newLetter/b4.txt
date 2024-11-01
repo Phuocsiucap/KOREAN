@@ -1,0 +1,20 @@
+bánh-gạo bánh-mì dâu-tây quần-áo hoa cá bàn-chân lá gà cucumber apple grape banana tree fox pig rabbit cow meat .chill baby mother father singer tongue head legs waist milk why trousers shoes dress hat clock chair radio train tissue country map underground
+떡 빵 딸기 옷 꽃 생선 발 잎 닭 오이 사과 포도 바나나 나무 여우 돼지 토끼 소 고기 차가운 아기 어머니 아버지 가수 혀 머리 다리 허리 우유 왜 바지 신발(구두) (치마)드레스 모자 시계 의자 라디오 기차 휴지 (나라)국가 지도 지하
+
+
+
+
+MaMH integer(10)
+ TenMH integer(10)
+ M Anh integer(10)
+ N+ Gia integer(10)
+ N MoTa integer(10)
+ N DANHMUCMADM integer(10)
+ Thuong Hieu MaTH integer(10)
+ E H KHACHHANG MaKH integer(10)
+ HoTen integer (10)
+ Email integer (10)
+ Sid integer (10)
+ N MatKhau integer (10)
+ Loại Nguoi Dung integer (10)
+ Diem TichLuy integer (10)

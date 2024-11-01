@@ -1,0 +1,6 @@
+hello : 안녕하세요
+hello : 안녕하심니까
+bye : 안녕히 가세요
+bye: 안녕히 계세요
+nice to meet you(for the first) : 처음 뵙겠습니다
+nice to meet you : 반갑습니다

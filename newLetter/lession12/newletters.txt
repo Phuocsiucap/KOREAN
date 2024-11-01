@@ -1,0 +1,38 @@
+전화 번호: số điện thoại
+전화 요금: cước phí điện thoại
+국내전화: điện thoại trong nước
+수신자 부담: điện thoại người nhận trả tiền
+연락처: liên lạc
+전화카드: thẻ điện thoại
+국제전화: điện thoại quốc tế
+인터넷 전화: điện thoại internet
+검색하다: tìm kiếm tra cứu
+대사관: đại sứ quán
+그분: vị ấy ngài ấy
+깨우다: đánh thức
+남기다: để lại còn lại
+내다: đưa ra
+뉴스: tin tức
+늦게: muộn trễ
+들어오다: đi vào
+말씀 드리다: thưa chuyện nói (kính ngữ)
+맞다: dùng
+사장님: giám đốc
+사전: từ điển
+소리: âm thanh tiếng
+약속: cuộc hẹn
+얼마나: bao nhiêu bao lâu
+역사: lịch sử
+정하다: quyết định
+짐: hành lý
+출발하다: xuất phát
+전화를 걸다: gọi điện thoại
+전화를 받다: nhận điện thoại
+전화를 끊다: kết thúc cuộc gọi
+문자메시지를 보내다: gửi tin nhắn
+답장을 보내다: gửi lời hồi đáp
+전화가 오다: cuộc gọi đến
+전화를 바꾸다: chuyển điện thoại (cho ai đó)
+통화 중이다: điện thoại bận đang bận máy
+문자메시지를 받다: nhận tin nhắn
+답장을 받다: nhận hồi đáp

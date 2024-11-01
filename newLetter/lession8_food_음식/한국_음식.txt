@@ -1,0 +1,15 @@
+rice:밥
+soup:국
+bulgogi: 불고기
+canh tương: 된장찌개
+miến lạnh:냉면
+bánh tteok: 떡
+instant noodles: 라면
+thịt 3 chỉ nướng: 심겹살
+kimchi soup:김치찌개
+súp sườn bò:갈비탕
+gà tầm sâm:삼계탕
+cơm chiên:볶음밥
+sườn nướng:갈비
+mì, bún:국수
+cơm trộn :비빔밥

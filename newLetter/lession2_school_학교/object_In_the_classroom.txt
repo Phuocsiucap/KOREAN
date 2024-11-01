@@ -1,0 +1,16 @@
+object in the classroom: 교실 물건
+table: 책상
+chair: 의자
+broad: 칠판
+dor: 문
+windown: 창문
+clock: 시계
+cặp sách: 가방
+computer: 컴퓨터
+sách: 책
+vở: 공책
+từ điển: 시전
+hòn tẩy: 지우개
+map: 지도
+pen: 펜  
+hộp bút: 필통

@@ -1,0 +1,44 @@
+xe buýt : 버스  
+tàu hỏa : 기차  
+taxi : 택시  
+tàu điện ngầm : 지하철  
+xe máy : 오토바이  
+ô tô, xe hơi : 자동차  
+thuyền, tàu thủy : 배  
+máy bay : 비행기  
+xe đạp : 자전거  
+điểm dừng xe buýt, trạm xe buýt : 버스 정류장 (정거장)  
+bến xe khách : 버스 터미널  
+ga tàu hỏa : 기차역  
+vạch/lối sang đường : 횡단보도  
+đường cao tốc : 고속도로  
+đổi phương tiện giao thông : 갈아타다  
+xe buýt cao tốc : 고속버스  
+thẻ giao thông : 교통카드  
+ga tàu điện ngầm : 지하철역  
+sân bay : 공항  
+cầu vượt : 육교  
+đường phố, đại lộ : 도로  
+tắc đường : 길이 막히다  
+bãi đỗ xe : 주차장  
+đường hầm : 지하도  
+lên, đi (phương tiện giao thông) : 타다  
+mất thời gian : 시간이 걸리다  
+xe buýt nội thành : 시내버스  
+xe buýt tuyến ngắn : 마을버스  
+bản đồ tuyến tàu điện ngầm : 지하철 노선도  
+trạm xăng : 주유소  
+đèn tín hiệu giao thông : 신호등  
+xuống xe : 내리다  
+xảy ra tai nạn giao thông : 교통사고가 나다  
+bữa phụ, món ăn nhẹ : 간식  
+núi Namsan : 남산  
+màu vàng : 노랗다  
+xe buýt cao cấp : 리무진 버스  
+xanh da trời : 파랗다  
+cửa hàng tiện ích : 편의점  
+hội quán sinh viên : 학생회관  
+tàu cao tốc : KTX  
+quang cảnh buổi tối : 야경  
+trung tâm dạy nấu ăn : 요리 학원  
+muộn, trễ : 지각하다  

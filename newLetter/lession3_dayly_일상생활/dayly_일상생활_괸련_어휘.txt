@@ -1,0 +1,14 @@
+tea: 차
+coffee: 커피
+bread: 빵
+milk: 우유
+film: 영화
+music: 음악
+newspaper: 신문
+friend: 찬구
+từ liên quan đến sinh hoạt hàng ngày: 얼상생횐련 어휘
+đại từ nghi vấn: 의문대명사
+what: 무엇
+where: 어디
+who : 누구
+when: 언제

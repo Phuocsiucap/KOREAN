@@ -1,0 +1,8 @@
+big: 크다
+small: 작다
+many: 많다
+ít: 적다
+tốt, đẹp, thich: 좋다
+xấu, tồi : 나쁘다
+hay, thú vị: 재미있다
+không hay: 재미없다

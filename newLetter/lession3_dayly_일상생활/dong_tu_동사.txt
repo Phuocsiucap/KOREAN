@@ -1,0 +1,17 @@
+đi: 가다
+đến:오다
+sleep: 자다
+eat:먹다
+drink: 마시다
+nói chuyện: 이야기하다
+read: 읽다
+hear: 듣다
+nhìn, xem: 보다
+work: 일하다
+study: 공무하다
+luyện tập thể thao: 은동하다
+nghỉ, nghỉ ngơi:쉬다
+gặp gỡ: 만나다
+mua:사다
+like:좋아하다
+bán:팔다

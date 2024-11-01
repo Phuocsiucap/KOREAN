@@ -1,0 +1,41 @@
+singer:가수
+canh tương: 된장찌개
+rất:아주
+món Galbi(sườn nướng):갈비
+dog: 개
+cat:고양이
+môn đánh gôn:골프
+phim kinh dị:공포 영화
+hoa quả: 과일
+món kimbap(cơm cuộn lá kim): 김밥
+cây:나무
+câu cá: 낚시
+bóng rổ: 농구
+dộng vật: 동물
+phim truyện, phim truyền hình: 드라마
+quả dâu tây: 딸기
+instant noodles:라면
+hat: 모자
+many: 많이
+sea:바다
+trousers: 바지
+pear: 배
+volleyball: 배구
+trải qua: 보내다
+món Bulgogi: 불고기
+laundry:삘래하다
+bird:새
+persent:선물
+hate:싫어하다
+very:아주
+action movie:액션 영화
+baseball: 야구
+cook:요리하다
+early:일찍
+football:죽구
+dance:춤을 추다
+play: 치다
+dress:치마
+tennis:테니스
+grape:포도
+tired:피곤하다

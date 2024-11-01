@@ -1,0 +1,48 @@
+above:위
+below:아래
+inside:안
+outside: 밖
+beside:옆
+middle:사이
+front:앞
+back:뒤
+left:윈쪽
+right: 오른쪽
+two sides: 양쪽
+opposite:건너편/ 맞은편
+straight: 똑바로/쪽
+east:동
+west:서
+south:남
+north: 북
+private house: 주택
+apartment:아파트
+collective house: 연림주택
+study room:공부방
+living room:거실
+master bedroom:안방
+bedroom: 침실
+kitchen: 부엌
+toilet:화장실
+laundry room: 세탁실
+balcony: 베란다
+entrance, gate: 현관
+bed: 침대
+bookcase: 책장
+wardrobe: 옷장
+sofa:소파
+table: 탁자
+dining table:식탁
+dressing table: 화장대
+tea table:다장자
+nơi chốn:장소
+police station:경찰서
+laundry shop:세탁소
+museum:박물관 (방물관)
+mini-mart:슈퍼마켓/마트
+gas station:주유소
+bus stop: 버스 정류장
+bakery:빵집
+florist: 꽃집
+men's barbershop: 이발소
+women's hairdresser:미용실

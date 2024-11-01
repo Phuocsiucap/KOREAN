@@ -1,0 +1,17 @@
+cookies: 과자
+tangerien:귤
+design:디자인
+small maket:마트
+mango:망고
+stationery store: 문구점
+fish:생선
+bookstore: 서점
+discoutn: 세일
+novel:소설첵
+watermelon: 수박
+electronics store:전자상가
+fruit juice: 주스
+camera:카메라
+shirt:티셔츠
+pencil case: 필통
+smart phone:스마트폰
