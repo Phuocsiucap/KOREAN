@@ -1,0 +1,86 @@
+Trán: 이마
+Đầu: 머리
+Lông mày: 눈썹
+Miệng: 입
+Môi: 입술
+Mắt: 눈
+Ngực: 가슴
+Tay: 손
+Mũi: 코
+Ngón tay: 손가락
+Tai: 귀
+Cổ: 목
+Cằm: 턱
+Vai: 어깨
+Bụng: 배
+Lưng: 등
+Mông: 엉덩이
+Chân: 다리
+Eo: 허리
+Đầu gối: 무릎
+Cổ chân: 발목
+Bàn chân: 발
+Bắp chân: 종아리
+Ngón chân: 발가락
+Bị cảm (cúm): 감기(독감)에 걸리다
+Ho: 기침하다
+Sốt: 열이 나다
+Sổ mũi: 콧물이 나오다
+Rối loạn tiêu hóa: 배탈이 나다
+Có vết thương: 상처가 나다
+Đau đầu: 두통
+Khó tiêu: 소화가 안 되다
+Chảy máu: 피가 나다
+Đau răng: 치통
+Bị thương, bị trầy xước: 다치다
+Nặng: 심하다
+Đau bụng, đau dạ dày: 복통
+Thuốc: 약
+Thuốc giảm đau: 진통제
+Thuốc viên: 알약
+Thuốc tiêu hóa: 소화제
+Thuốc bột: 가루약
+Thuốc giảm sốt: 해열제
+Thuốc nước: 물약
+Thuốc cảm: 감기약
+Thuốc đau đầu: 두통약
+Khoa nội: 내과
+Khoa tai mũi họng: 이비인후과
+Tiêm phòng: 예방주사
+Khoa ngoại: 외과
+Khoa mắt: 안과
+Tiêm: 주사를 맞다
+Khoa nhi: 소아과
+Khoa răng: 치과
+Kê đơn thuốc: 처방하다
+Tôi có thể giúp gì cho anh?: 어떻게 오셨어요?/어떻게 오셨습니까?
+Anh đau thế nào?: 어떻게 아프세요?/어떻게 아프십니까?
+Anh đau ở đâu?: 어디가 아프세요?/어디가 아프십니까?
+Triệu chứng của anh thế nào?: 증상이 어떠세요?/증상이 어떻습니까?
+Ngứa: 가렵다
+Kiểm tra: 검사하다
+Đun, nấu: 끓이다
+Cái nồi: 냄비
+Mở mắt: (눈을) 뜨다
+Thứ hai: 둘째
+Nhức, buốt: 따갑다
+Liệu pháp dân gian: 민간요법
+Bảo quản, giữ gìn: 보관하다
+Uống thuốc: 복용
+Bị gãy (tay, chân): 부러지다
+Sưng: 붓다
+Vitamin C: 비타민 C
+Bị tiêu chảy: 설사하다
+Sau khi ăn: 식후
+Bôi thuốc: 약을 바르다
+Duy trì: 유지하다
+Hắt xì hơi, nhảy mũi: 재채기하다
+Tiêm: 주사
+Được tiêm: 주사 맞다
+Đơn thuốc: 처방전
+Đầu tiên: 첫째
+Được chữa trị: 치료 받다
+Cafein: 카페인
+Hỉ mũi: 코를 풀다
+Đào, khoan: 파다
+Hiệu quả: 효과

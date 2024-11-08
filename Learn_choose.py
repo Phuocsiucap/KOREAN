@@ -26,22 +26,22 @@ except FileNotFoundError:
 choose = int(input('1: Korean - English\n2: English - Korean\nEnter choice: '))
 
 def play_sound(text, lang='ko'):
-   
-    # # # Tạo âm thanh từ văn bản
-    tts = gTTS(text, lang=lang)
-    # # # Tạo một đối tượng BytesIO
-    mp3_fp = BytesIO()
-    # # # Lưu âm thanh vào đối tượng BytesIO
-    tts.write_to_fp(mp3_fp)
-    # # # Đặt lại vị trí của BytesIO về đầu
-    mp3_fp.seek(0)
-    # # # Khởi tạo pygame.mixer để phát âm thanh từ BytesIO1
-    pygame.mixer.music.load(mp3_fp, 'mp3')
-    pygame.mixer.music.play()
+   pass
+    # # # # Tạo âm thanh từ văn bản
+    # tts = gTTS(text, lang=lang)
+    # # # # Tạo một đối tượng BytesIO
+    # mp3_fp = BytesIO()
+    # # # # Lưu âm thanh vào đối tượng BytesIO
+    # tts.write_to_fp(mp3_fp)
+    # # # # Đặt lại vị trí của BytesIO về đầu
+    # mp3_fp.seek(0)
+    # # # # Khởi tạo pygame.mixer để phát âm thanh từ BytesIO1
+    # pygame.mixer.music.load(mp3_fp, 'mp3')
+    # pygame.mixer.music.play()
 
-    # # # Đợi đến khi âm thanh phát xong
-    while pygame.mixer.music.get_busy():
-        pygame.time.Clock().tick(10)
+    # # # # Đợi đến khi âm thanh phát xong
+    # while pygame.mixer.music.get_busy():
+    #     pygame.time.Clock().tick(10)
 
 def update_json_files(data, completed):
     # Lưu lại file data.json
