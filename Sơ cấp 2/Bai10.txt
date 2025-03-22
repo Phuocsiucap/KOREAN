@@ -1,0 +1,49 @@
+Tóc ngắn: 짧은 머리
+Tóc dài: 긴머리
+Tóc ngắn ngang vai: 단발머리
+Tóc xoăn: 파마머리
+Tóc thẳng tự nhiên: 생머리
+Tóc xoăn tự nhiên: 곱슬머리
+Dáng người: (체격)
+Thân hình mảnh mai, thon thả: 날씬하다
+Thân hình trung bình: 보통이다
+Thân hình đầy đặn: 통통하다
+Dáng vẻ :(모습)
+Đẹp trai: 잘생겼다
+Phong cách, đẹp: 멋있다
+Xinh đẹp: 예쁘다
+Dễ thương: 귀엽다
+Giống: 닮다
+Đáng yêu: 사랑스럽다
+Màu sắc :(색깔)
+Màu đỏ: 빨간색
+Màu vàng: 노란색
+Màu xanh nước biển: 파란색
+Màu trắng: 하얀색/흰색
+Màu đen: 까만색
+Màu xanh lá cây: 녹색
+Màu nâu: 갈색
+Màu hồng: 분홍색
+Màu xám: 회색
+Màu tím: 보라색
+Màu cam: 주황색
+Màu be: 베이지색
+Động từ liên quan đến ăn mặc :(착탈동사)
+Mặc: 입다
+Cởi, tháo: 벗다
+Đi, mang (giày, dép): 신다
+Đội, dùng: 쓰다
+Áo khoác: 새킷 (재킷)
+Đeo (kính, găng tay): 끼다
+Đeo (đồng hồ): 차다
+Khác ():기타
+Da: 가죽
+Ăn kiêng: 다이어트
+Đeo, khoác (túi xách): 메다
+Cần cù, chăm chỉ: 부지런하다
+Quạt máy: 선풍기
+Móc treo khóa: 열쇠고리
+Quần áo thể thao: 운동복
+Túi: 주머니
+Khóa kéo: 지퍼
+Nhanh nhẹn, hoạt bát: 활발하다

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Học Viết</title>
+</head>
+<body>
+    <h1>Nhập câu trả lời đúng</h1>
+    <div id="question"></div>
+    <input type="text" id="answer" placeholder="Nhập câu trả lời">
+    <input type="hidden" id="key">
+    <button onclick="submitAnswer()">Kiểm tra</button>
+
+    <script>
+        function getQuestion() {
+            fetch('/get_question?mode=write_answer')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById("question").textContent = data.question;
+                    document.getElementById("key").value = data.key;
+                });
+        }
+
+        function submitAnswer() {
+            const answer = document.getElementById("answer").value;
+            const key = document.getElementById("key").value;
+            fetch('/submit_answer', {
+                method: 'POST',
+                body: new URLSearchParams({
+                    answer: answer,
+                    mode: 'write_answer',
+                    key: key
+                })
+            })
+            .then(response => response.json())
+            .then(data => alert(data.result));
+        }
+
+        window.onload = getQuestion;
+    </script>
+</body>
+</html>

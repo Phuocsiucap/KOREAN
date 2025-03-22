@@ -1,0 +1,45 @@
+ Dân số  :인구
+ Diện tích  :면적
+ Vị trí  :위치
+ Vật giá  :물가
+ Khu vực  :지역
+ Trung tâm  :중심지
+ Lục địa  :육지
+ Biển  :바다/해/바다
+ Thành phố  :도시
+ Đảo  :섬
+ Nhỏ nhất  :최소
+ Nông thôn  :시골
+ Cao nhất  :최고
+ Lớn nhất, tối đa  :최대
+ Thủ đô  :수도
+ Thành phố  :thành phố
+ Công nghiệp  :공업
+ Thương nghiệp  :상업
+ Nông nghiệp  :농업
+ Ngành du lịch  :관광업
+ Nổi tiếng  :유명하다
+ Phong cảnh đẹp  :경치가 아름답다
+ Lịch sử lâu đời  :역사가 깊다
+ (Phương hướng)  :방향
+ Đông  : 동
+ Tây  : 서
+ Nam  : 남
+ Bắc  : 북
+ (Cảm) đỡ hơn  :(감기가) 낫다
+ Khu vực kinh tế tự do  :경제자유구역
+ Cảng thương mại quốc tế  :국제 무역항
+ Nung, nướng  :굽다
+ Thần thoại Tangun  :단군신화
+ Tangun Wanggeom  :단군왕검
+ Tết Đoan Ngọ (mùng 5 tháng 5 âm lịch)  :단오 (음력 5월 5일)
+ Gốm sứ  :도자기
+ Trước đây  :예전
+ Lò (nung đồ gốm)  :(도자기 굽는) 가마
+ Đất sét  :진흙
+ Lễ hội pháo hoa  :불꽃 축제
+ Bãi tắm (ở biển)  :해수욕장
+ (Mặt) bị sưng  :(얼굴이) 붓다
+ Triển lãm mở cách năm (hai năm tổ chức một lần)  :비엔날레
+ Thành phố thương nghiệp  :상업 도시
+ Nghệ thuật  :예술

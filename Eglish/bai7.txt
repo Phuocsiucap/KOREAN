@@ -1,0 +1,38 @@
+Backup : Sao lưu dữ liệu  
+Caution : Lời cảnh báo  
+Guideline : Hướng dẫn  
+Hard drive partition : Phân vùng của ổ cứng  
+Introduction : Lời giới thiệu  
+Instruction : Lời chỉ dẫn  
+Internal : Thuộc về bên trong  
+Note : Lưu ý  
+Tip : Lời khuyên  
+Warning : Lời cảnh cáo, cảnh báo  
+Attempt : Cố gắng, thử  
+Back up : Sao lưu  
+Block : Khóa, chặn  
+Click : Nhấn, ấn  
+Connect : Kết nối  
+Damage : Làm hư hại, làm hỏng  
+Double click : Nhấn đúp, kích đúp  
+Download : Tải về  
+Export : Xuất  
+Format : Định dạng  
+Import : Nhập  
+Insert : Chèn  
+Install : Cài đặt  
+Log in : Đăng nhập  
+Log out : Đăng xuất  
+Overheat : Quá nóng  
+Push : Đẩy  
+Reboot/Restart : Khởi động lại  
+Reformat : Định dạng lại  
+Restore : Khôi phục  
+Select : Lựa chọn, chọn  
+Set : Để, đặt  
+Slide : Trượt  
+Stack : Chồng cái này lên cái khác  
+Transfer : Chuyển  
+Troubleshoot : Sửa chữa, khắc phục sự cố  
+Unplug : Rút  
+Upload : Tải lên  

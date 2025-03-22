@@ -1,0 +1,34 @@
+Agenda : Lịch trình cuộc họp  
+Attendee (n) : Người tham dự  
+Audience : Khán giả  
+Audio input : Đầu vào âm thanh  
+Bandwidth : Băng thông  
+Body language : Ngôn ngữ cơ thể  
+Brochure : Tập quảng cáo  
+Budget : Ngân sách  
+Chat room : Phòng trò chuyện trực tuyến trên mạng  
+Codec (coder and decoder) : Bộ mã hóa và giải mã  
+Collaboration : Sự hợp tác/cộng tác, kết hợp  
+Concept : Khái niệm  
+Dedicated system : Hệ thống chuyên dụng  
+Dedicated video conferencing system : Hệ thống hội thảo chuyên dụng  
+Diagram (n) : Sơ đồ  
+Echo cancellation : Cách/Quá trình loại bỏ tiếng vọng  
+Eye:contact : Giao tiếp bằng mắt  
+Handouts : Bài tập phô tô, bản phát tay  
+High:definition monitor : Màn hình độ nét cao  
+Illustrative detail : Chi tiết minh họa  
+Line of argument : Dòng lập luận  
+Multipoint : Đa điểm  
+Multipoint control unit (MCU) : Bộ vi điều khiển (Thiết bị chuyển mã video giúp kết nối đa điểm đầu, cầu và thiết bị cuộc gọi)  
+Note card : Thẻ ghi nhớ  
+Outline : Bản phác thảo, dàn ý  
+Output service : Dịch vụ đầu ra  
+Project : Dự án  
+Section : Phần  
+Signpost : Dấu hiệu, chỉ dẫn  
+Video conference/videoconferencing : Hội nghị truyền hình  
+Video conference systems : Hệ thống hội nghị truyền hình  
+Video input : Đầu vào video  
+Video bridge : Cầu truyền hình  
+Visual aid : Giáo cụ trực quan, dụng cụ trực quan  

@@ -1,0 +1,60 @@
+학기 : học kỳ  
+과목 : môn học  
+학점 : tín chỉ  
+강의실 : phòng học  
+휴강 : nghỉ học  
+종강 : bế giảng, kết thúc khóa học  
+수강하다 : nghe giảng, học  
+청강하다 : nghe giảng, dự thính, thỉnh giảng  
+중간고사 : thi giữa kỳ  
+기말고사 : thi cuối kỳ  
+수강 신청하다 : đăng ký học  
+보고서를 제출하다 : nộp báo cáo  
+학과 사무실 : văn phòng khoa  
+조교 : trợ giảng  
+강의를 듣다 : nghe giảng  
+시험을 보다 : thi  
+신학기 : học kỳ mới  
+등록금 : tiền đăng ký học  
+새내기 = 신입생 : học sinh mới  
+재학생 : học sinh đang học  
+동아리 : câu lạc bộ  
+입학하다 : nhập học  
+졸업하다 : tốt nghiệp  
+등록하다 : đăng ký  
+졸업생 : học sinh tốt nghiệp  
+장학금을 받다 : nhận học bổng  
+입학식 : lễ nhập học  
+발표회 : buổi thuyết trình  
+개강식 : lễ khai giảng  
+오리엔테이션 : giới thiệu định hướng  
+축제 : lễ hội  
+졸업식 : lễ tốt nghiệp  
+사은회 : lễ cảm ơn, lễ cảm ơn thầy cô  
+스승의날 : nhà giáo VN  
+체육대회 : đại hội thể thao  
+신입생 환영회 : lễ đón sinh viên mới  
+MT (Membership Training) : dã ngoại tập thể  
+졸업생 환송회 : lễ tiễn sinh viên tốt nghiệp  
+개교기념일 : ngày kỷ niệm thành lập trường  
+교류 : giao lưu  
+교환학생 : sinh viên trao đổi  
+대기업 : doanh nghiệp lớn  
+모집하다 : thu thập, tuyển chọn  
+문학작품 : tác phẩm văn học  
+성적 우수자 : học sinh có thành tích ưu tú  
+참석 : tham dự  
+시인 : nhà thơ  
+시험 기간 : thời gian thi  
+신청 마감 : hết hạn nộp đơn  
+자료실 : phòng tư liệu  
+자원봉사 : phục vụ tình nguyện  
+반입 : mang vào, mang theo  
+제시하다 : đưa ra, đề nghị  
+봉사 활동 : hoạt động tình nguyện, hoạt động phục vụ cộng đồng  
+지급하다 : chỉ cấp  
+초대 : mời  
+최선을 다하다 : cố gắng hết sức  
+토론 : thảo luận  
+통역 : thông dịch  
+휴관 : đóng cửa, nghỉ (hoạt động)  

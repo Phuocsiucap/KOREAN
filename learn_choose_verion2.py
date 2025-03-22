@@ -10,7 +10,7 @@ pygame.mixer.init()
 
 # Đường dẫn tới file
 data_path = r'D:\KOREAN\data.json'
-completed_path = r'D:\KOREAN\completed_choose-b4.json'
+completed_path = r'D:\KOREAN\co_ban2.json'
 
 # Đọc file data.json
 with open(data_path, 'r', encoding='utf-8') as f:

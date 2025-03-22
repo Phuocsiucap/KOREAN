@@ -1,0 +1,18 @@
+Điện thoại quốc tế: 국제전화 
+Điện thoại liên tỉnh: 시외전화 
+Điện thoại nội hạt: 시내전화 
+Mã quốc gia: 국가 번호 
+Mã khu vực: 지역 번호 
+Nói chuyện điện thoại: 통화하다 
+Máy bận: 통화 중이다 
+Để lại tin nhắn: 메시지를 남기다 
+Bấm số: 번호를 누르다 
+Không có mặt/vắng mặt: 자리에 없다 / 자리에 안 계시다 
+Kết nối: 연결하다 
+Phím sao: 별표 
+Phím thăng: 우물 정자 
+Có tin nhắn: 문자 메시지가 오다 
+Gửi tin nhắn: 문자 메시지를 보내다 
+Tắt điện thoại: 전화기를 끄다 
+Để chế độ rung: 진동으로 하다 
+Hết pin: 배터리가 나가다 

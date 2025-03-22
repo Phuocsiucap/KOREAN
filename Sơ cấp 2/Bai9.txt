@@ -1,0 +1,49 @@
+Ngày nghỉ : 휴일
+Ngày lẻ : 공휴일
+Ngày kỷ niệm : 기념일
+Kỳ nghỉ dài : 연휴
+Ngày Lập quốc : 개천절
+Ngày Hangeul : 한글날
+Chủ nhật : 일요일
+Ngày Giải phóng (Quang Phục) : 광복절
+Ngày Tưởng niệm thương binh liệt sĩ : 현충일
+Ngày Nhà Giáo : 스승의 날
+Tết : 설
+Trung thu : 추석/한가위
+Canh bánh tteok : 떡국
+Bánh Songpyeon : 송편
+Trò chơi Yut : 윷놀이
+Thả diều : 연날리기
+Trò chơi vòng tròn : 강강술래
+Lạy mừng ông bà bố mẹ đầu năm mới : 세배를 하다
+Nhận tiền mừng tuổi : 세뱃돈을 받다
+Được may mắn, hạnh phúc : 복을 받다
+Cầu mong : 소원을 빌다
+Cúng tổ tiên : 차례를 지내다
+Về quê : 고향에 내려가다/올라가다
+Cuộc di chuyển của toàn dân tộc : 민족 대이동
+Đi tảo mộ : 성묘를 가다
+Ngày thành lập trường : 개교기념일
+Cuộc thi viết : 글쓰기 대회
+Quả hạch : 부럼
+Âm lịch : 음력
+Bánh xử : 부침개
+Bán cái nóng : 더위팔기
+Hợp khẩu vị : 입에 맞다
+Biển Tây : 서해
+Biển Đông : 동해
+Đậu phộng (lạc) : 땅콩
+Trải nghiệm văn hóa : 문화체험
+Trò chơi dân gian : 민속놀이
+Trăng rằm : 보름달
+Lễ Giáng sinh : 성탄절
+Vái lạy : 세배
+Vườn thực vật : 식물원
+Món ăn bổ dưỡng : 약식
+Cơm ngũ cốc : 오곡밥
+Trò đốt ông bạ : 쥐불놀이
+Cúng tổ tiên : 차례(제사)
+Condo (nhà nghỉ) : 콘도
+Học phí : 학비
+Quả óc chó : 호두
+Liên hoan : 회식

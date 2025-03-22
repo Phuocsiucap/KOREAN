@@ -1,0 +1,35 @@
+Xe buýt: 버스 
+Xe buýt nội thành: 시내버스 
+Xe buýt ngoại thành: 시외버스 
+Xe buýt nhanh: 급행버스 
+Xe buýt chạy theo tuyến cố định: 셔틀버스 
+Taxi: 택시 
+Taxi thông thường: 일반택시 
+Taxi cao cấp: 모범택시 
+Taxi limousine: 리무진택시 
+Liên quan đến giao thông
+Ga trung chuyển: 환승역 
+Chuyển tuyến: 갈아타다 
+Cửa ra số...: ...번 출구 
+Tuyến số...: ...호선 
+Thẻ giao thông: 교통카드 
+Bản đồ tuyến đường: 노선도 
+Phí cơ bản: 기본요금 
+Hướng di chuyển
+Đi thẳng: 곧장 가다 / 쭉 가다 
+Rẽ phải: 우회전하다 
+Rẽ trái: 좌회전하다 
+Quay đầu: 유턴하다 
+Đi băng qua: 건너가다 
+Đi ra 
+Đi vào 
+Địa điểm liên quan
+Đường dành riêng cho xe buýt: 버스 전용 도로 
+Ngã ba: 삼거리 
+Ngã tư: 사거리 
+Giao lộ: 건널목 
+Hẻm: 골목 
+Các từ vựng bổ sung
+Cung Deoksu: 덕수궁 
+Công viên Olympic: 올림픽공원 
+Sân vận động Worldcup: 월드컵경기장 

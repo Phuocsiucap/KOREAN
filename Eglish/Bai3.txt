@@ -1,0 +1,38 @@
+Commercial website : Trang mạng thương mại
+Educational website : Trang mạng giáo dục
+Organizational website : Trang mạng thuộc tổ chức
+Entertainment website : Trang mạng giải trí
+News website : Trang mạng về tin tức
+Personal website : Trang mạng cá nhân
+Social networking website : Trang mạng xã hội
+Animation : Hoạt họa, hoạt ảnh
+Background : Nền
+FTP (File Transfer Protocol) : Giao thức truyền tập tin
+CSS (Cascading Style Sheets) : Tập tin định kiểu theo tầng
+HTML (HyperText Markup Language) : Ngôn ngữ đánh dấu siêu văn bản
+Hyperlink : Liên kết
+Domain : Tên miền
+HTTP (HyperText Transfer Protocol) : Giao thức truyền tải siêu văn bản
+HTTPS (HyperText Transfer Protocol Secure) : Giao thức truyền tải siêu văn bản bảo mật
+Graphics : Đồ họa
+Navigation bar : Thanh điều hướng
+Page layout : Bố cục trang
+Plug-in : Chương trình thêm vào, tiện ích
+Search engine : Công cụ tìm kiếm
+Tag : Thẻ (dùng trong HTML)
+URL address (Uniform Resource Locator address) : Đường dẫn liên kết đến website
+Web browser : Trình duyệt web
+Web editor : Phần mềm hỗ trợ tạo nội dung web
+Web server : Máy chủ web
+Web traffic : Lưu lượng truy cập
+Website specification : Các yêu cầu của trang web
+World Wide Web (WWW) : Mạng lưới toàn cầu
+Compatible (with) : Tương thích
+Easy-to-use : Dễ sử dụng
+Interactive : Có tính tương tác
+Informative : Nhiều thông tin
+Reliable : Đáng tin cậy
+Up-to-date : Cập nhật
+User-friendly : Thân thiện với người dùng
+Well-designed : Được thiết kế tốt
+Well-organized : Tổ chức tốt

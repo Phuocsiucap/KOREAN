@@ -1,0 +1,40 @@
+Attach : (v) Gắn kèm, đính kèm  
+Attachment : (n) Tập tin đính kèm  
+BCC (Blind carbon copy) : (n) Gửi bản sao tạm (người nhận không thấy danh sách email của người khác)  
+CC (Carbon copy) : (n) Gửi bản sao (người nhận thấy danh sách email của những người khác)  
+Formal : (adj) Trang trọng  
+Informal : (adj) Thân mật  
+Look forward to : (vp) Mong chờ  
+Recipient : (n) Người nhận  
+Sender : (n) Người gửi  
+Signature : (n) Chữ ký  
+Subject : (n) Tiêu đề thư, email  
+Yours faithfully : Trân trọng  
+Yours sincerely : Trân trọng  
+Accept : (v) Chấp nhận, đồng ý  
+Acceptable : (adj) Chấp nhận được  
+Apologize for : (vp) Xin lỗi  
+Appreciate : (v) Ghi nhận, đánh giá cao  
+Be annoyed at : (adj) Tức giận  
+Be dissatisfied with : (adj) Bất mãn  
+Be upset about : (adj) Thất vọng về  
+Blurry : (adj) Mờ  
+Business Internet plan : (np) Gói cước mạng cho doanh nghiệp  
+Consideration : (n) Sự xem xét, cân nhắc  
+Deal with : (vp) Giải quyết / xử lý công việc  
+Enclose with : (vp) Đính kèm  
+Hesitate : (v) Do dự  
+Home Internet plan : (np) Gói cước mạng hộ gia đình  
+Keep in mind : (vp) Ghi nhớ  
+Make a complaint : (vp) Khiếu nại  
+Make a proposal : (vp) Đưa ra đề xuất, kiến nghị  
+Make a request : (vp) Đề nghị  
+PON light : (np) Đèn PON (báo tín hiệu đường truyền)  
+Receipt : (n) Biên lai  
+Reference : (n) Bản đối chiếu, tham khảo  
+Refund : (n) Hoàn tiền  
+Replacement : (n) Sự thay thế  
+Return : (v) Trả lại, hoàn lại  
+Scratch : (n) Làm xước  
+Warranty : (n) Giấy bảo hành  
+WAN light : (n) Đèn WAN (báo tín hiệu hệ thống đã cấp phát địa chỉ mạng)  

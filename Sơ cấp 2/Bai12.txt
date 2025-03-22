@@ -1,0 +1,26 @@
+Thư viện: 도서관
+Công viên: 공원
+Bảo tàng mỹ thuật: 미술관
+Bảo tàng: 박물관
+Nhà hát: 연주회장
+Ký túc xá: 기숙사
+Rạp chiếu phim: 극장
+Bệnh viện: 병원
+Sân bay: 공항
+Giữ trật tự: 질서를 지키다
+Giữ yên lặng: 조용히 하다
+Cấm hút thuốc: 금연하다
+Chạm tay: 손을 대다
+Làm ồn: 떠들다
+Gây cản trở: 방해하다
+Dắt chó theo: 개를 데려가다
+Sông: 강
+Nhà tắm công cộng: 공중목욕탕
+Bức tranh: 그림
+Cửa sau: 뒷문
+Gặp mặt, thăm nuôi: 면회
+Trả lại, nộp lại: 반납
+Phòng bệnh: 병실
+Cửa trước: 앞문
+Buổi hòa nhạc: 연주회
+Buổi biểu diễn ca nhạc: 음악회

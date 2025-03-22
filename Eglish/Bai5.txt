@@ -1,0 +1,36 @@
+Connection error (N): Lỗi kết nối.  
+Detect (V): Phát hiện.  
+Diagnose (V): Chẩn đoán.  
+Diagnosis (N): Sự chẩn đoán.  
+Error code (N): Mã lỗi.  
+Error message (N): Thông báo lỗi.  
+Escalate (V): Chuyển lên (hỗ trợ cấp cao hơn).  
+Escalation (N): Sự chuyển lên (hỗ trợ).  
+Incident report (N): Báo cáo sự cố.  
+Incident management (N): Quản trị sự cố.  
+Investigate (V): Điều tra, kiểm tra.  
+Indicate (V): Chỉ ra, là dấu hiệu của.  
+Indication (N): Dấu hiệu.  
+Logic error (N): Lỗi logic.  
+Minimum system requirement (N): Yêu cầu hệ thống tối thiểu.  
+Resolve (V): Giải quyết.  
+Support ticket (N): Phiếu hỗ trợ khách hàng.  
+Syntax error (N): Lỗi cú pháp.  
+System error (N): Lỗi hệ thống.  
+Tier (N): Cấp hỗ trợ.  
+Troubleshoot (V): Khắc phục sự cố.  
+Applications run slowly: Ứng dụng chạy chậm.  
+Applications won't install: Ứng dụng không cài đặt được.  
+Computer suddenly restarts: Máy tính đột ngột tự khởi động lại.  
+Hard drive failure (N): Lỗi ổ cứng.  
+Missing DLL files: Thiếu tập tin DLL.  
+Peripherals stop working: Thiết bị ngoại vi không hoạt động.  
+Unusual noise: Âm thanh lạ.  
+Add more RAM sticks: Bổ sung RAM.  
+Check memory: Kiểm tra bộ nhớ.  
+Open task manager: Mở trình quản lý tác vụ.  
+Reinstall drivers: Cài lại driver.  
+Run diagnostic tools: Chạy công cụ chẩn đoán.  
+Run system file checker: Chạy công cụ kiểm tra tập tin hệ thống.  
+Shut down unnecessary processes: Đóng bớt các quy trình không cần thiết.  
+

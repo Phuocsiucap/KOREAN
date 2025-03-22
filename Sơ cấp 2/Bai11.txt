@@ -1,0 +1,40 @@
+Du lịch trong nước: 국내 여행
+Du lịch ba lô: 배낭여행
+Nhà nghỉ: 콘도
+Công ty du lịch: 여행사
+Tuần trăng mật: 신혼여행
+Chương trình du lịch: 여행 상품
+1 ngày 1 đêm: 1박 2일
+Gói du lịch: 여행 패키지
+Du lịch gia đình: 가족 여행
+Khách sạn: 호텔
+Điểm du lịch: 관광지
+Bữa sáng: 조식
+Du lịch nước ngoài: 해외여행
+Ở nhà dân: 민박
+Tiền vào cửa: 입장료
+Bữa trưa: 중식
+Bữa tối: 석식
+Bảo hiểm: 보험
+Chuẩn bị cho chuyến đi: 여행 준비
+Thuốc dự phòng: 비상약
+Thẻ tín dụng: 신용카드
+Dép lê: 슬리퍼
+Dụng cụ vệ sinh: 세면도구
+Kính râm: 선글라스
+Máy ảnh: 카메라
+Đổi tiền: 환전
+Vé máy bay: 비행기표
+Xếp hành lý: 가방을 싸다
+Cung điện: 궁전
+Quảng trường Độc lập: 독립광장
+Xe ngựa: 마차
+Di sản văn hóa: 문화재
+Thăm viếng: 방문
+Buổi trình diễn: 쇼
+Nước suối: 약수
+Du thuyền: 유람선
+Lịch trình: 일정
+Mặt trời mọc: 일출
+Trò chơi truyền thống: 전통놀이
+Nhà truyền thống của Hàn Quốc: 한옥

@@ -1,0 +1,32 @@
+Criteria: Tiêu chuẩn  
+Coding: Mã hóa dữ liệu  
+Data collection: Thu thập dữ liệu  
+Data decryption: Giải mã dữ liệu  
+Data encryption: Mã hóa dữ liệu  
+Data entry: Nhập dữ liệu  
+Data mining: Khai thác dữ liệu  
+Data security: Bảo mật dữ liệu  
+Data sorting: Phân loại dữ liệu  
+Data tabulation: Lập bảng dữ liệu  
+Data validation: Xác thực dữ liệu  
+Database administrator: Người quản trị cơ sở dữ liệu  
+Database management system (DBMS): Hệ quản trị cơ sở dữ liệu  
+Database vendor: Nhà cung cấp cơ sở dữ liệu  
+Formula: Công thức  
+Graph: Đồ thị  
+Index: Chỉ mục  
+Query: Truy vấn  
+Raw data: Dữ liệu thô  
+Record: Bản ghi  
+Structured database management system: Hệ quản trị cơ sở dữ liệu có cấu trúc  
+Temporal database: Cơ sở dữ liệu thời gian  
+Unstructured database management system: Hệ quản trị cơ sở dữ liệu phi cấu trúc  
+Analyze: Phân tích  
+Decrypt: Giải mã  
+Discard: Loại bỏ  
+Encrypt: Mã hóa  
+Gather: Thu thập  
+Refine: Lọc  
+Search: Tìm kiếm  
+Sort: Phân loại  
+Systemize: Hệ thống hóa  
